@@ -1,0 +1,4 @@
+the difference between add, commit and push:
+add将工作目录添加到暂存区
+commit将暂存区的文件提交到当前分支的仓库
+push将本地仓库的提交同步到远程仓库
